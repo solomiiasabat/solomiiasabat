@@ -1,5 +1,9 @@
-### Hi 👋, I'm Solomiia
+# Hi 👋, I'm Solomiia
 <h4 align="left">A passionate frontend developer from Kyiv, Ukraine</h4>
+
+![Static Badge](https://img.shields.io/badge/LinkedIn-%230A65C0?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsolomiia-sabat-913a55224%2F)
+![Static Badge](https://img.shields.io/badge/Gmail-%23BC4336?logo=gmail&logoColor=white&link=mailto%3Asolomiyasabat%40gmail.com)
+
 
 
 ## Stack
