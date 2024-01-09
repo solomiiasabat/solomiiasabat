@@ -1,8 +1,9 @@
 # Hi 👋, I'm Solomiia
-<h4 align="left">A passionate frontend developer from Kyiv, Ukraine</h4>
+<h4 align="left">A passionate freelance frontend developer from Kyiv, Ukraine</h4>
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-%230A65C0?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsolomiia-sabat-913a55224%2F)
-![Static Badge](https://img.shields.io/badge/Gmail-%23BC4336?logo=gmail&logoColor=white&link=mailto%3Asolomiyasabat%40gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A65C0?logo=linkedin)](https://www.linkedin.com/in/solomiia-sabat-913a55224/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23BC4336?logo=gmail&logoColor=white)](mailto:solomiyasabat@gmail.com)
+
 
 
 
@@ -16,36 +17,38 @@ a website for a startup💫
 
 ## Portfolio
 
-### [Photographer's Portfolio](https://guileless-khapse-b2838f.netlify.app/) (HTML/CSS/Bootstrap/ResponsiveDesign/Netlify)
+#### 📍[Photographer's Portfolio](https://guileless-khapse-b2838f.netlify.app/) (HTML/CSS/Bootstrap/ResponsiveDesign/Netlify)
 <p align="left">
   <a href="https://guileless-khapse-b2838f.netlify.app/" target="_blank" rel="noreferrer">
-    <img alt="Photographer's Portfolio" src="https://github.com/solomiiasabat/solomiiasabat/blob/main/PortfolioMobile1.png" width="48%" height="280px"/>
+    <img alt="Photographer's Portfolio" src="https://github.com/solomiiasabat/solomiiasabat/blob/main/PortfolioMobile1.png" width="40%" height="220px"/>
   </a>
   <a href="https://guileless-khapse-b2838f.netlify.app/" target="_blank" rel="noreferrer">
-    <img alt="Photographer's Portfolio" src="https://github.com/solomiiasabat/solomiiasabat/blob/main/Portfolio3.png" width="48%" height="280px"/>
+    <img alt="Photographer's Portfolio" src="https://github.com/solomiiasabat/solomiiasabat/blob/main/Portfolio3.png" width="40%" height="200px"/>
   </a>
 </p>
+<br/>
 
 
-### [Cats Gallery](https://cats-gallery-react-brown.vercel.app/) (React/ReduxToolkit/MaterialUI/Vite/Vercel)
+#### 📍[Cats Gallery](https://cats-gallery-react-brown.vercel.app/) (React/ReduxToolkit/MaterialUI/Vite/Vercel)
 <p align="left">
   <a href="https://your-link-to-cats-gallery" target="_blank" rel="noreferrer">
-    <img alt="Cats Gallery" src="https://github.com/solomiiasabat/cats-react/blob/main/assets/Main.png" width="48%" height="250px"/>
+    <img alt="Cats Gallery" src="https://github.com/solomiiasabat/cats-react/blob/main/assets/Main.png" width="40%" height="190px"/>
   </a>
   <a href="https://your-link-to-cats-gallery" target="_blank" rel="noreferrer">
-    <img alt="Cats Gallery" src="https://github.com/solomiiasabat/cats-react/blob/main/assets/WithoutBreed.png" width="48%" height="250px"/>
+    <img alt="Cats Gallery" src="https://github.com/solomiiasabat/cats-react/blob/main/assets/WithoutBreed.png" width="40%" height="190px"/>
   </a>
 </p>
+<br/>
 
 
 
-### [Security Company Website](https://b-garant.com.ua/) (React/HTML/CSS/Bootstrap/ResponsiveDesign/Vercel)
+#### 📍[Security Company Website](https://b-garant.com.ua/) (React/HTML/CSS/Bootstrap/ResponsiveDesign/Vercel)
 <p align="left">
   <a href="https://your-link-to-security-company-website" target="_blank" rel="noreferrer">
-    <img alt="Security Company Website" src="https://github.com/solomiiasabat/solomiiasabat/blob/main/Security1.png" width="52%" height="250px"/>
+    <img alt="Security Company Website" src="https://github.com/solomiiasabat/solomiiasabat/blob/main/Security1.png" width="48%" height="200px"/>
   </a>
   <a href="https://your-link-to-security-company-website" target="_blank" rel="noreferrer">
-    <img alt="Security Company Website" src="https://github.com/solomiiasabat/solomiiasabat/blob/main/SecurityMob.png" width="44%" height="250px"/>
+    <img alt="Security Company Website" src="https://github.com/solomiiasabat/solomiiasabat/blob/main/SecurityMob.png" width="40%" height="200px"/>
   </a>
 </p>
 
